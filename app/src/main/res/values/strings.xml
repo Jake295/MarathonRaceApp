@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Marathon Race App</string>
+    <string name="txtTitle">Marathon Race</string>
+    <string name="hintHours">Hours</string>
+    <string name="hintMinutes">Minutes</string>
+    <string name="btnCalculate">Calculate</string>
+    <string name="imgDescription">Placement Image</string>
+    <string name="txtPace">Pace</string>
+</resources>
